@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30c978f2-56f4-4b50-bf31-79df419b5049" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="5a861bde-cc14-4afb-820d-eba2ae3f35e6" />
+  <component name="ProjectId" id="1ecO8OnWtYba6y1w0ZSxa4qmlWC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ucssc" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\github\ProgrammingAtLakeG" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.perceptrons (1)">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="ProgrammingAtLakeG" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="basic_directories" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProgrammingAtLakeG" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/admin" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/admin/basic_directories.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="neural_network" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProgrammingAtLakeG" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/neural_network" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/neural_network/neural_network.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="perceptron_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProgrammingAtLakeG" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/perceptron_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="perceptrons (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProgrammingAtLakeG" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Perceptron" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Perceptron/perceptrons.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProgrammingAtLakeG" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Perceptron" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Perceptron/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.perceptrons (1)" />
+        <item itemvalue="Python.basic_directories" />
+        <item itemvalue="Python.neural_network" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.perceptron_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30c978f2-56f4-4b50-bf31-79df419b5049" name="Default Changelist" comment="" />
+      <created>1594617254073</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594617254073</updated>
+      <workItem from="1594617255311" duration="3454000" />
+      <workItem from="1594624591315" duration="10679000" />
+      <workItem from="1594790931245" duration="2955000" />
+      <workItem from="1595041846695" duration="2128000" />
+      <workItem from="1595319292180" duration="667000" />
+      <workItem from="1595745286606" duration="67000" />
+      <workItem from="1596351633223" duration="711000" />
+      <workItem from="1597304803026" duration="341000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="546" y="189" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1594625179257">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="546" y="189" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1858.1080/-1920.0.1858.1080@0.0.1858.1080" timestamp="1594625179257" />
+    <state x="735" y="430" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1595042831039">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="735" y="430" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/0.0.1858.1080/-1920.0.1858.1080@0.0.1858.1080" timestamp="1595042831039" />
+    <state x="709" y="294" key="FileChooserDialogImpl" timestamp="1596351741979">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="709" y="294" key="FileChooserDialogImpl/0.0.1858.1080/-1920.0.1858.1080@0.0.1858.1080" timestamp="1596351741979" />
+    <state width="1815" height="360" key="GridCell.Tab.0.bottom" timestamp="1597305015794">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="959" height="360" key="GridCell.Tab.0.bottom/0.0.1858.1080/-1920.0.1858.1080@-1920.0.1858.1080" timestamp="1597304958106" />
+    <state width="1815" height="360" key="GridCell.Tab.0.bottom/0.0.1858.1080/-1920.0.1858.1080@0.0.1858.1080" timestamp="1597305015794" />
+    <state width="1815" height="360" key="GridCell.Tab.0.center" timestamp="1597305015794">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="959" height="360" key="GridCell.Tab.0.center/0.0.1858.1080/-1920.0.1858.1080@-1920.0.1858.1080" timestamp="1597304958106" />
+    <state width="1815" height="360" key="GridCell.Tab.0.center/0.0.1858.1080/-1920.0.1858.1080@0.0.1858.1080" timestamp="1597305015794" />
+    <state width="1815" height="360" key="GridCell.Tab.0.left" timestamp="1597305015794">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="959" height="360" key="GridCell.Tab.0.left/0.0.1858.1080/-1920.0.1858.1080@-1920.0.1858.1080" timestamp="1597304958106" />
+    <state width="1815" height="360" key="GridCell.Tab.0.left/0.0.1858.1080/-1920.0.1858.1080@0.0.1858.1080" timestamp="1597305015794" />
+    <state width="1815" height="360" key="GridCell.Tab.0.right" timestamp="1597305015794">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="959" height="360" key="GridCell.Tab.0.right/0.0.1858.1080/-1920.0.1858.1080@-1920.0.1858.1080" timestamp="1597304958106" />
+    <state width="1815" height="360" key="GridCell.Tab.0.right/0.0.1858.1080/-1920.0.1858.1080@0.0.1858.1080" timestamp="1597305015794" />
+    <state width="1815" height="360" key="GridCell.Tab.1.bottom" timestamp="1597305015794">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="959" height="360" key="GridCell.Tab.1.bottom/0.0.1858.1080/-1920.0.1858.1080@-1920.0.1858.1080" timestamp="1597304958947" />
+    <state width="1815" height="360" key="GridCell.Tab.1.bottom/0.0.1858.1080/-1920.0.1858.1080@0.0.1858.1080" timestamp="1597305015794" />
+    <state width="1815" height="360" key="GridCell.Tab.1.center" timestamp="1597305015794">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="959" height="360" key="GridCell.Tab.1.center/0.0.1858.1080/-1920.0.1858.1080@-1920.0.1858.1080" timestamp="1597304958947" />
+    <state width="1815" height="360" key="GridCell.Tab.1.center/0.0.1858.1080/-1920.0.1858.1080@0.0.1858.1080" timestamp="1597305015794" />
+    <state width="1815" height="360" key="GridCell.Tab.1.left" timestamp="1597305015794">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="959" height="360" key="GridCell.Tab.1.left/0.0.1858.1080/-1920.0.1858.1080@-1920.0.1858.1080" timestamp="1597304958947" />
+    <state width="1815" height="360" key="GridCell.Tab.1.left/0.0.1858.1080/-1920.0.1858.1080@0.0.1858.1080" timestamp="1597305015794" />
+    <state width="1815" height="360" key="GridCell.Tab.1.right" timestamp="1597305015794">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="959" height="360" key="GridCell.Tab.1.right/0.0.1858.1080/-1920.0.1858.1080@-1920.0.1858.1080" timestamp="1597304958947" />
+    <state width="1815" height="360" key="GridCell.Tab.1.right/0.0.1858.1080/-1920.0.1858.1080@0.0.1858.1080" timestamp="1597305015794" />
+    <state x="430" y="184" key="SettingsEditor" timestamp="1594784188442">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="430" y="184" key="SettingsEditor/0.0.1858.1080/-1920.0.1858.1080@0.0.1858.1080" timestamp="1594784188442" />
+    <state x="592" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1595041957012">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="592" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1858.1080/-1920.0.1858.1080@0.0.1858.1080" timestamp="1595041957012" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Perceptron/test.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Perceptron/perceptrons.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ProgrammingAtLakeG$perceptrons__1_.coverage" NAME="perceptrons (1) Coverage Results" MODIFIED="1597304957791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Perceptron" />
+    <SUITE FILE_PATH="coverage/ProgrammingAtLakeG$perceptron_test.coverage" NAME="perceptron_test Coverage Results" MODIFIED="1594618238770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProgrammingAtLakeG$neural_network.coverage" NAME="neural_network Coverage Results" MODIFIED="1594791910142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/neural_network" />
+    <SUITE FILE_PATH="coverage/ProgrammingAtLakeG$test.coverage" NAME="test Coverage Results" MODIFIED="1594785494901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Perceptron" />
+  </component>
+</project>
